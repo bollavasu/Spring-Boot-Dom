@@ -1,0 +1,20 @@
+<employees>
+    <employee id="111" sal="10000">
+        <firstName><![CDATA[This text contains a CEND ]]]]><![CDATA[>]]></firstName>
+        <lastName>Gupta</lastName>
+        <city>Hyderabad</city>
+        <location>India</location>
+    </employee>
+    <employee id="222" sal="20000">
+        <firstName>Alex</firstName>
+        <lastName>Gussin</lastName>
+        <city>London</city>
+        <location>UK</location>
+    </employee>
+    <employee id="333" sal="30000">
+        <firstName>David</firstName>
+        <lastName>Feezor</lastName>
+        <city>Austin</city>
+        <location>USA</location>
+    </employee>
+</employees>
